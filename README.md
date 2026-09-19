@@ -38,7 +38,7 @@ Optimized specifically for wireless gaming and live streaming with low bitrates 
 Clone this repository or download the source `.bat` files into a folder on your computer.
 
 ```bash
-git clone [https://github.com/your-username/scrcpy-wireless-suite.git](https://github.com/your-username/scrcpy-wireless-suite.git)
+git clone https://github.com/mic87xp1/scrcpy-wireless-suite.git
 cd scrcpy-wireless-suite
 ```
 
